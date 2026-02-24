@@ -6,7 +6,7 @@
 body {
   margin: 0;
   height: 100vh;
-  background: url("images/background.jpg") center/cover no-repeat;
+  background: url("background.jpg") center/cover no-repeat;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -145,4 +145,5 @@ body {
 @keyframes fadeOut {
   from { opacity: 1; }
   to { opacity: 0; }
+
 }
